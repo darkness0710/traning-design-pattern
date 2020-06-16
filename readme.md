@@ -1,0 +1,1 @@
+# Example for desgin parttern by Darkness0710
